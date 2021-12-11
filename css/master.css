@@ -131,8 +131,3 @@ h1 {
   letter-spacing: -3px;
   line-height: 1;
 }
-
-.worktitle:active {
-  background-color: red;
-  border: 3px solid black;
-}
