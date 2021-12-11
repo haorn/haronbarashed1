@@ -101,7 +101,7 @@ h1 {
 .container {
   height: 100%;
   width: 100%;
-  display: block;
+  display: inline-block;
 }
 
 .image-container img {
