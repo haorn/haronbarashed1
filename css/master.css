@@ -94,8 +94,9 @@ h1 {
 .image-container {
   height: auto;
   width: auto;
-  display: block;
   box-sizing: border-box;
+  display: none;
+  overflow: hidden;
 }
 
 .container {
