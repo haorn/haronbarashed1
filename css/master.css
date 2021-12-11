@@ -134,7 +134,7 @@ h1 {
   box-sizing: border-box;
 }
 
-.worktitle::selection{
+.worktitle:hover{
   background-color: red;
   border: 3px solid black;
 
