@@ -117,6 +117,13 @@ h1 {
 
 }
 
+button {
+  color: none;
+  background: none;
+  background-color: none;
+  border: none;
+}
+
 .worktitle {
   color: green;
   background: none;
