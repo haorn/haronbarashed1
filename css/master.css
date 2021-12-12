@@ -1,3 +1,9 @@
+* {
+filter: blur(1px);
+
+
+  }
+
 body {
   background-color: black;
   height: 100vh;
